@@ -11,3 +11,5 @@ Installation du programme du jeu de cartes à collectionner :
 6- Glisser le dossier ProjetJCC dans le workspace d'Eclipse.
 7- Cliquer sur Run
 8- Suivre les instructions données dans la synthèse.
+
+Note : Pour tester les tournois, vous aurez besoin de créer des joueurs et des decks via le menu Collection.
